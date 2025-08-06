@@ -1,5 +1,5 @@
 Top IDOR reports from HackerOne:
-
+~~~
 1. [IDOR to add secondary users in www.paypal.com/businessmanage/users/api/v1/users](https://hackerone.com/reports/415081) to PayPal - 751 upvotes, $10500
 2. [IDOR allow access to payments data of any user](https://hackerone.com/reports/751577) to Nord Security - 369 upvotes, $0
 3. [IDOR - Delete all Licenses and certifications from users account using CreateOrUpdateHackerCertification GraphQL query](https://hackerone.com/reports/2122671) to HackerOne - 350 upvotes, $12500
@@ -24,6 +24,7 @@ Top IDOR reports from HackerOne:
 22. [IDOR and statistics leakage in Orders ](https://hackerone.com/reports/544329) to X / xAI - 131 upvotes, $289
 23. [[api.pandao.ru] IDOR for order delivery address](https://hackerone.com/reports/723461) to Mail.ru - 125 upvotes, $3000
 24. [IDOR in https://3d.cs.money/](https://hackerone.com/reports/990878) to CS Money - 120 upvotes, $0
+~~~
 25. [IDOR leads to leak analytics of any restaurant](https://hackerone.com/reports/1116387) to Uber - 116 upvotes, $0
 26. [IDOR at mtnmobad.mtnbusiness.com.ng leads to PII leakage. ](https://hackerone.com/reports/1773609) to MTN Group - 114 upvotes, $0
 27. [IDOR to view order information of users and personal information](https://hackerone.com/reports/2524562) to WakaTime - 112 upvotes, $0
